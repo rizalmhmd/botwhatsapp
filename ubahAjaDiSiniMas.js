@@ -11,26 +11,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //Ini Jangan di hapus ya mas Nanti eror//
 //============[ Pembatas ]==========
-global.owner = ["628xx","628xxx"]
-global.ownername = "TOBOT V4" //nama bot
+global.owner = ["6281333154367","6281392128956"]
+global.ownername = "𝚉𝚊𝚕𝚕" //nama bot
 global.ytname = "YT: Lenttobs" //yt lu kalao ada
 global.socialm = "Ngapa Bro? Donate La bro etdah"
-global.location = "Indonesia, Jatim, Lmh"
-global.dana = "08xxx"
-global.pulsa = "08xxx"
-global.gopay = "08xxx"
+global.location = "Indonesia, Jateng, Wsb"
+global.dana = "081333154367"
+global.pulsa = "081333154367"
+global.gopay = "-"
 global.donasiowner = "nomorowner tpi gausa kosong kan aja ini gini aja Soalnya ga kepake"
 
 //bot bomdy 
-global.ownernomer = ["628xx","628xx"]
-global.premium = ['628xx'] 
-global.botname = 'TOBOT V4' 
+global.ownernomer = ["6281333154367","6281392128956"]
+global.premium = ['6281333154367'] 
+global.botname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' 
 global.linkz = "https://chat.whatsapp.com/LRCGXKpjpznInErL9t" 
 global.websitex = "https://youtu.be/BwTSHvgjB7w" 
 global.themeemoji = "♥️" 
 global.packname = "Sticker By"
-global.author = "TOBOT WA\n\n\nMenerima Jasa pembuatan Sticker Gratis\n\n\n\n\n\n\n\nKamu Nanya? Cara Buat sticker Gratis?\n\n\n\n\n\n\n\nNih Nomor Bot:6287" 
-global.wm = "TOBOT AI" 
+global.author = "𝚉𝚊𝚕𝚕" 
+global.wm = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" 
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
